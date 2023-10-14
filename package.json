@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "@types/node": "^20.8.6"
+  },
+  "dependencies": {
+    "clear": "^0.1.0"
+  }
+}
